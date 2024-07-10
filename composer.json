@@ -1,0 +1,17 @@
+{
+    "name": "russell/simplenote",
+    "description": "A simple note taking app",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "files": [
+            "flight/flight/Flight.php",
+            "application/helpers/utility.php"
+        ],
+        "classmap": [
+            "application/core"
+        ]
+    }
+}
